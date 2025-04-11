@@ -1,5 +1,7 @@
 # EmpiricalFinance
 
+Presantasjon: https://drive.google.com/file/d/1lJzC6vbxLNIrTd-XeTFnzyLiOX6Wks-S/view?usp=drivesdk
+
 ## Recommended Setup 
 For first setup create a venv: `python -m venv venv`
 
